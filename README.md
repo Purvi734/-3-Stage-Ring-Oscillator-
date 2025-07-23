@@ -28,13 +28,4 @@ Performed:
 DRC (Design Rule Check) — No violations
 LVS (Layout vs Schematic) — Netlist matched schematic
 
-## 📷 Schematic Diagram
-![Schematic](images/schematic.png)
-
-## 🧱 Layout View
-![Layout](images/layout.png)
-
-## 📊 Transient Simulation Waveform
-![Waveform](images/waveform.png)
-
 
