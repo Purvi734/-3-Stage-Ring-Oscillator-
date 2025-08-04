@@ -15,6 +15,9 @@ Each inverter was sized for optimal drive strength to sustain stable oscillation
 
 Connected the output of the third inverter back to the input of the first to complete the feedback loop.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c015cee-5562-4da2-9e22-59f0102ad66c" />
+
+
 ## Transient Analysis
 Set the initial condition to 0 and then ran the ADE L.
 
@@ -28,9 +31,21 @@ Verified oscillation frequency and waveform shape across a range of supply volta
 ## Layout and Physical Verification
 Completed full custom layout of the ring oscillator using Cadence layout editor.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/22a191e5-eb39-4457-9470-45b8bc2ca3c6" />
+
 Ensured proper spacing, alignment, and design rule compliance.
-Performed:
-DRC (Design Rule Check) — No violations
-LVS (Layout vs Schematic) — Netlist matched schematic
+
+## Performed:
+
+### DRC (Design Rule Check) — No violations
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/16c7b00f-3252-4eff-81a2-a6bb0eb8934b" />
+
+
+### LVS (Layout vs Schematic) — Netlist matched schematic
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/92d02933-75a4-444c-b227-d9825952f018" />
+
 
 
