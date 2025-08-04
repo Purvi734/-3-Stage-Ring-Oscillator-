@@ -22,6 +22,9 @@ Performed transient simulations to observe oscillation waveform.
 
 Verified oscillation frequency and waveform shape across a range of supply voltages.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c6268597-7d1d-4443-a1fe-9bc8e655fc6b" />
+
+
 ## Layout and Physical Verification
 Completed full custom layout of the ring oscillator using Cadence layout editor.
 
