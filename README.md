@@ -16,6 +16,8 @@ Each inverter was sized for optimal drive strength to sustain stable oscillation
 Connected the output of the third inverter back to the input of the first to complete the feedback loop.
 
 ## Transient Analysis
+Set the initial condition to 0 and then ran the ADE L.
+
 Performed transient simulations to observe oscillation waveform.
 
 Verified oscillation frequency and waveform shape across a range of supply voltages.
